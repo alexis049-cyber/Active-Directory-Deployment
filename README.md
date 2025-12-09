@@ -16,7 +16,7 @@ This repository contains instructions and configurations for deploying an on-pre
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (21H2 Gen 2)
 
 
 <h2>Deployment and Configuration Steps</h2>
@@ -60,13 +60,13 @@ This repository contains instructions and configurations for deploying an on-pre
   - Use `jane_admin` as the admin account from this point forward.
 
 
-<img width="692" alt="Screenshot 2025-01-23 at 3 45 08 PM" src="https://github.com/user-attachments/assets/52a900c0-8050-413f-a57b-39d41995e8e1" />
-<img width="684" alt="Screenshot 2025-01-23 at 3 45 28 PM" src="https://github.com/user-attachments/assets/d756cefa-8fee-43ff-83aa-949763c18fdb" />
-<img width="664" alt="Screenshot 2025-01-23 at 3 45 52 PM" src="https://github.com/user-attachments/assets/b6c24ef3-1556-4afd-9721-bdca545410e5" />
-<img width="1335" alt="Screenshot 2025-01-23 at 3 46 19 PM" src="https://github.com/user-attachments/assets/9fc14a7e-9c00-42b5-9fbf-d268e6fe78f3" />
-<img width="651" alt="Screenshot 2025-01-23 at 3 46 30 PM" src="https://github.com/user-attachments/assets/ef0c6e97-061e-4331-8cd3-462490184e8d" />
-<img width="406" alt="Screenshot 2025-01-23 at 3 47 10 PM" src="https://github.com/user-attachments/assets/801c5acf-9a74-4240-a73c-de9353dfc8e0" />
-<img width="533" alt="Screenshot 2025-01-23 at 3 47 30 PM" src="https://github.com/user-attachments/assets/fe2e062a-080e-4259-87f6-289556859abc" />
+<img width="1384" height="1118" alt="image" src="https://github.com/user-attachments/assets/db49571a-45d3-47fd-8a6c-4662272a63fe" />
+<img width="1368" height="1090" alt="image" src="https://github.com/user-attachments/assets/f7a354a0-cbf0-4ea7-9309-30badf44c5a9" />
+<img width="1328" height="808" alt="image" src="https://github.com/user-attachments/assets/db66efae-935d-4665-9054-7afd0a783300" />
+<img width="2670" height="1476" alt="image" src="https://github.com/user-attachments/assets/07239bcd-60d5-49ef-aed7-bce9c174c9d1" />
+<img width="1302" height="1072" alt="image" src="https://github.com/user-attachments/assets/15cc7317-a1da-4524-94c1-3523fa31727d" />
+<img width="1302" height="1072" alt="image" src="https://github.com/user-attachments/assets/db0d058a-f887-4adf-b74b-583f32c70634" />
+<img width="1066" height="940" alt="image" src="https://github.com/user-attachments/assets/1560f6fb-da50-470f-a73b-eac81db40d21" />
 
 
  
@@ -82,14 +82,14 @@ This repository contains instructions and configurations for deploying an on-pre
   - Drag `Client-1` into the `_CLIENTS OU`.
 
 
-<img width="921" alt="Screenshot 2025-01-23 at 3 50 00 PM" src="https://github.com/user-attachments/assets/bed85172-e5dc-4956-8762-eea8e07e5ade" />
-<img width="426" alt="Screenshot 2025-01-23 at 3 50 17 PM" src="https://github.com/user-attachments/assets/47790e14-d7f2-4b27-bb08-b062aacbdca9" />
-<img width="421" alt="Screenshot 2025-01-23 at 3 51 12 PM" src="https://github.com/user-attachments/assets/1c0b9cad-2fc9-4446-babe-8ec74a4ffe5a" />
-<img width="277" alt="Screenshot 2025-01-23 at 3 51 25 PM" src="https://github.com/user-attachments/assets/02f62ad7-c3b6-4674-a8af-4c7d9411bc76" />
-<img width="629" alt="Screenshot 2025-01-23 at 3 52 24 PM" src="https://github.com/user-attachments/assets/62af8808-9966-4ab2-a3f2-7138c65dd800" />
-<img width="574" alt="Screenshot 2025-01-23 at 3 52 30 PM" src="https://github.com/user-attachments/assets/17e0e492-2047-4d5d-a6cc-459c507ca1f8" />
-<img width="607" alt="Screenshot 2025-01-23 at 3 52 44 PM" src="https://github.com/user-attachments/assets/c83ed5c1-fb69-48a3-b49c-96e2a50232ba" />
-<img width="728" alt="Screenshot 2025-01-23 at 3 53 02 PM" src="https://github.com/user-attachments/assets/f65d3964-2fec-47a2-a0c3-0b89f123f734" />
+<img width="1842" height="1314" alt="image" src="https://github.com/user-attachments/assets/7ba50abd-a735-4b28-9f34-4f63ff4a6078" />
+<img width="852" height="768" alt="image" src="https://github.com/user-attachments/assets/d64f2603-f5c1-490b-8b0a-2bedf4e1d79e" />
+<img width="842" height="548" alt="image" src="https://github.com/user-attachments/assets/599af4c0-b4b8-4469-9bbb-36b4ae31f848" />
+<img width="554" height="312" alt="image" src="https://github.com/user-attachments/assets/96e887fd-728d-4476-ade5-a9fefdae5e64" />
+<img width="1258" height="1060" alt="image" src="https://github.com/user-attachments/assets/f7b22bd5-79ca-4551-aa71-322a1e831e83" />
+<img width="1148" height="780" alt="image" src="https://github.com/user-attachments/assets/e294e203-cad8-4d9a-8579-7a4b966dc59f" />
+<img width="1214" height="524" alt="image" src="https://github.com/user-attachments/assets/380e23ac-c819-415a-bfc0-1d7e6cea7916" />
+<img width="1456" height="650" alt="image" src="https://github.com/user-attachments/assets/da5bb6b5-c0c8-4ab7-9531-e63dfc68db11" />
 
 
 **4. Setup Remote Desktop for Non-Administrative Users on Client-1**
@@ -105,10 +105,9 @@ This repository contains instructions and configurations for deploying an on-pre
    -Note: Typically, this configuration is managed using Group Policy for multiple systems.
 
 
-<img width="454" alt="Screenshot 2025-01-23 at 4 05 59 PM" src="https://github.com/user-attachments/assets/665b22bd-58b9-4127-a7f6-8667cb8e7b4c" />
-<img width="843" alt="Screenshot 2025-01-23 at 4 06 36 PM" src="https://github.com/user-attachments/assets/1bb20155-8432-4e58-aec5-6d21b284fb1e" />
-<img width="325" alt="Screenshot 2025-01-23 at 4 06 48 PM" src="https://github.com/user-attachments/assets/6cd9900d-348b-4abd-a879-a21fd617459c" />
-<img width="401" alt="Screenshot 2025-01-23 at 4 07 18 PM" src="https://github.com/user-attachments/assets/e952c9c0-5d5a-4038-b759-9cee7ea85b62" />
+<img width="1686" height="470" alt="image" src="https://github.com/user-attachments/assets/a4064812-d52e-47de-9d3c-99a9890815d8" />
+<img width="650" height="220" alt="image" src="https://github.com/user-attachments/assets/2105bba9-3068-4f4d-bafb-d04d35f51f39" />
+<img width="802" height="416" alt="image" src="https://github.com/user-attachments/assets/6447a23a-b191-4adf-a33c-1e22862b7bd0" />
 
 
 **5. Create Additional Users and Test Login**
@@ -128,14 +127,13 @@ This repository contains instructions and configurations for deploying an on-pre
   - Ensure the account password matches what is specified in the script.
 
 
-<img width="463" alt="Screenshot 2025-01-23 at 4 08 49 PM" src="https://github.com/user-attachments/assets/baaf9830-96e3-41ac-83d4-3d921678e598" />
-<img width="1056" alt="Screenshot 2025-01-23 at 4 10 56 PM" src="https://github.com/user-attachments/assets/6d001fd1-8a35-4b2f-95c8-f7e307deff3d" />
-<img width="1075" alt="Screenshot 2025-01-23 at 4 11 51 PM" src="https://github.com/user-attachments/assets/1672380d-8f86-4110-8ff1-6cabeeafd496" />
-<img width="760" alt="Screenshot 2025-01-23 at 4 12 00 PM" src="https://github.com/user-attachments/assets/759907a3-4f8d-48f0-8c4c-038bf8bd65ac" />
-<img width="785" alt="Screenshot 2025-01-23 at 4 12 32 PM" src="https://github.com/user-attachments/assets/a27ebddb-84e5-48a0-961f-b3e9cef46f2c" />
-<img width="504" alt="Screenshot 2025-01-23 at 4 12 45 PM" src="https://github.com/user-attachments/assets/9cbef0ab-23fa-4e71-ba6c-e3443083a78e" />
-<img width="625" alt="Screenshot 2025-01-23 at 4 18 45 PM" src="https://github.com/user-attachments/assets/5740d186-36e0-4ece-9ce5-a6803321272d" />
-<img width="559" alt="Screenshot 2025-01-23 at 4 19 44 PM" src="https://github.com/user-attachments/assets/23bd76dc-d75e-41fe-8e93-846e1ae83c19" />
+<img width="926" height="534" alt="image" src="https://github.com/user-attachments/assets/0d36ca3b-fc26-4c9d-884e-8834091bcfe9" />
+<img width="2112" height="1540" alt="image" src="https://github.com/user-attachments/assets/fb469ad0-8a41-480c-82c3-19b86839f162" />
+<img width="2150" height="984" alt="image" src="https://github.com/user-attachments/assets/9311d8d0-8217-4301-bf4c-74a959a574a4" />
+<img width="1520" height="964" alt="image" src="https://github.com/user-attachments/assets/a1aa8561-0965-4e8b-a41c-22c1182e7927" />
+<img width="1570" height="1012" alt="image" src="https://github.com/user-attachments/assets/06722553-bd39-43e7-a4f3-a612938bf5d0" />
+<img width="923" height="594" alt="image" src="https://github.com/user-attachments/assets/831dce65-d2ab-4149-9495-f41cb27cc3b8" />
+<img width="1250" height="762" alt="image" src="https://github.com/user-attachments/assets/3411c221-511a-4071-ab52-40d307de7b38" />
 
 
 <h2>Purpose</h2>
